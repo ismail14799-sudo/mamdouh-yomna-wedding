@@ -1,0 +1,16 @@
+MUSIC ATTRIBUTION
+
+"Reawakening" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 4.0 License
+https://creativecommons.org/licenses/by/4.0/
+
+Track: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400017
+Original audio: https://incompetech.com/music/royalty-free/mp3-royaltyfree/Reawakening.mp3
+ISRC: USUAN1400017
+Instruments: piano and cello
+Source retrieved: 2026-10-19
+
+Changes: loudness adjusted for quiet background playback; 2-second fade-in and
+3-second fade-out added; re-encoded as 128 kbps stereo MP3 at 44.1 kHz.
+The complete composition is used, without cuts to its arrangement.
+A visible attribution with source and license links is in the invitation footer.
